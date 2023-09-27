@@ -30,7 +30,7 @@
       learning_rate = 0.1  # SET THIS
       ```
   - Result Plot
-    ![Plot_1000_0 1](https://github.com/suim-park/Gradient-Descent/assets/143478016/99b15b49-96b5-4a25-bf68-ef5f2ce4c10a)
+    ![Plot_1000_0 1](https://github.com/suim-park/Gradient-Descent/assets/143478016/ea158283-bcdc-4f52-a625-7d856d4e833c)
 </br>
 
 * __`Case 2`__
@@ -41,7 +41,7 @@
       learning_rate = 0.5  # SET THIS
       ```
   - Result Plot
-    ![Plot_1000_0 5](https://github.com/suim-park/Gradient-Descent/assets/143478016/fa931585-f0ae-4647-8558-65ef10453c76)
+    ![Plot_1000_0 5](https://github.com/suim-park/Gradient-Descent/assets/143478016/3643229a-0744-43a5-82d1-9fe99f1ec38e)
 </br>
 
 * __`Case 3`__
@@ -52,7 +52,7 @@
       learning_rate = 0.01  # SET THIS
       ```
   - Result Plot
-    ![Plot_1000_0 01](https://github.com/suim-park/Gradient-Descent/assets/143478016/cee29ddd-06ca-4d13-96d6-5bdca4c33223)
+    ![Plot_1000_0 01](https://github.com/suim-park/Gradient-Descent/assets/143478016/2237bdec-9d17-4a56-a27a-be057a822312)
 </br>
 
 * __`Case 4`__
@@ -63,7 +63,7 @@
       learning_rate = 0.5  # SET THIS
       ```
   - Result Plot
-    ![Plot_500_0 5](https://github.com/suim-park/Gradient-Descent/assets/143478016/ab0b7ed2-b32e-49e1-976c-aa998e9ab71b)
+    ![Plot_500_0 5](https://github.com/suim-park/Gradient-Descent/assets/143478016/4f022724-ed26-4038-b2ac-d01c3f40d4ae)
 </br>
 
 * __`Case 5`__
@@ -74,7 +74,7 @@
       learning_rate = 0.1  # SET THIS
       ```
   - Result Plot
-    ![Plot_500_0 1](https://github.com/suim-park/Gradient-Descent/assets/143478016/5d283f67-1c80-4837-91ca-32ef314046da)
+    ![Plot_500_0 1](https://github.com/suim-park/Gradient-Descent/assets/143478016/e9960da7-832d-4263-95f9-d4286d0edc0d)
 </br>
 
 * __`Case 6`__
@@ -85,7 +85,7 @@
       learning_rate = 0.01  # SET THIS
       ```
   - Result Plot
-    ![Plot_500_0 01](https://github.com/suim-park/Gradient-Descent/assets/143478016/561c51d6-2442-47af-aa98-dba805e51d3b)
+    ![Plot_500_0 01](https://github.com/suim-park/Gradient-Descent/assets/143478016/c6f3512e-0e34-4d91-ad9c-4026fe527a93)
 </br>
 
 * __`Case 7`__
@@ -96,7 +96,7 @@
       learning_rate = 0.5  # SET THIS
       ```
   - Result Plot
-    ![Plot_100_0 5](https://github.com/suim-park/Gradient-Descent/assets/143478016/b5eceba5-0b6f-4da6-adef-ec8ecf756caa)
+    ![Plot_100_0 5](https://github.com/suim-park/Gradient-Descent/assets/143478016/3a388bf4-fc77-4c39-a1e7-4267f21364b6)
 </br>
 
 * __`Case 8`__
@@ -107,7 +107,7 @@
       learning_rate = 0.1  # SET THIS
       ```
     - Result Plot
-    ![Plot_100_0 1](https://github.com/suim-park/Gradient-Descent/assets/143478016/49356493-c4f9-4fa7-af24-6d2c255c8cfa)
+    ![Plot_100_0 1](https://github.com/suim-park/Gradient-Descent/assets/143478016/ee44c744-ab2b-4256-aa17-257d23b0806a)
 </br>
 
 * __`Case 9`__ _(Recommended)_
@@ -118,7 +118,6 @@
       learning_rate = 0.01  # SET THIS
       ```
   - Result Plot
-    ![Plot_100_0 01](https://github.com/suim-park/Gradient-Descent/assets/143478016/d90d5ed9-e576-44a3-9c07-4211974b758d)
+    ![Plot_100_0 01](https://github.com/suim-park/Gradient-Descent/assets/143478016/ddc89c30-e2e7-460e-954b-5078a56fce81)
+
 </br>
-
-
