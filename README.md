@@ -1,4 +1,4 @@
-# Homework #2 :pencil:
+# HW 2. Gradient Descent :pencil:
 ## Information :computer:
 * `Subject`: __Introduction to Natural Language Processing__
 * `Professor`: __Patrick Wang__
